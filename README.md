@@ -1,5 +1,4 @@
 # US Domestic Airline Performance and Delay Analysis Dashboard
-
 ## Introduction
 
 The US Domestic Airline Flights Performance Dashboard, built using Python's Dash framework, offers an interactive web experience. It facilitates a comprehensive understanding of US domestic airline performance and delays. By visualizing key data trends, users gain insights into airline operations, aiding informed decisions within the aviation industry.
