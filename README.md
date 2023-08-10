@@ -21,4 +21,4 @@ This dashboard employs Dash to create an intuitive web interface for data visual
 
 #### Deployment: The Dash application is run locally using the app.run_server() method, making it accessible through a web browser. Users can interact with the dashboard, exploring different aspects of airline performance and delays.
 
-1.png![image](https://github.com/ks-wang/Python-Dashboard-with-Dash-and-Plotly/assets/131721638/c44abedd-560f-40fc-934c-9decb4ed3ed8)
+![image](https://github.com/ks-wang/Python-Dashboard-with-Dash-and-Plotly/assets/131721638/c44abedd-560f-40fc-934c-9decb4ed3ed8)
